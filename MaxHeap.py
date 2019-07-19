@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun 17 18:57:51 2019
-
-@author: user_PC
+реализация макс кучи. элемент по 1 индексу - корень.
 """
 
 class MaxHeap:
